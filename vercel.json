@@ -1,0 +1,8 @@
+{
+  "routes": [
+    { "src": "/", "dest": "/index.html" },
+    { "src": "/ucenici", "dest": "/ucenici.html" },
+    { "src": "/osmeru", "dest": "/osmeru.html" },
+    { "src": "/procesrada", "dest": "/procesrada.html" }
+  ]
+}
