@@ -28,7 +28,7 @@ document.addEventListener('click', (event) => {
 });
 
 const searchResultsList = [
-    { title: 'Početna', link: 'pocetna.html' },
+    { title: 'Početna', link: 'index.html' },
     { title: 'Proces Rada', link: 'procesrada.html' },
     { title: 'O Smeru', link: 'osmeru.html' },
     { title: 'Učenici', link: 'ucenici.html' },
