@@ -892,6 +892,15 @@ a{
     border-radius: 50px;
     background: #FCC10A;
 }
+.kartica1 h3:hover{
+    background-color: transparent;
+border: 3px solid #FFDC1F;
+color: #FFF;
+max-height: 50px;
+box-sizing: border-box;
+}
+
+
 
 .kartica2 h3{
     font-family: "Baloo 2";
@@ -905,7 +914,15 @@ a{
     border-radius: 50px;
     background: #FCC10A;
 }
-
+.kartica2 h3:hover{
+    background-color: transparent;
+border: 3px solid #FFDC1F;
+max-height: 50px;
+box-sizing: border-box;
+}
+.kartica2 h3:hover > a{
+color: #FFF;
+}
 .kartica1 p{
     font-family: "Baloo 2";
     font-size: 20px;
@@ -1396,6 +1413,7 @@ border: none;
 }
 .kartica button:hover{
     border: 3px solid #FCC10A;
+    max-height: 50px;
     background-color: transparent;
     box-sizing: border-box;
 }
