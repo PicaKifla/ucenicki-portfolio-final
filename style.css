@@ -1131,7 +1131,7 @@ line-height: 25px;
     font-size: 35px;
     font-weight: 500;
     text-wrap: wrap;
-    line-height: 80px; /* 200% */
+    line-height: 150%; /* 200% */
     margin: 0%;
     /* width: 858px; */
 }
@@ -1187,6 +1187,8 @@ svg{
     font-size: 80px;
     margin-left: 200px;
     font-style: normal;
+    margin-bottom: -22px;
+    margin-top: 112px;
     text-wrap: nowrap;
     font-weight: 800;
     line-height: 80px; /* 100% */
@@ -1313,7 +1315,7 @@ line-height: normal;
 }
 
 main.text p{
-        max-width: 1220px;
+    max-width: 1220px;
     align-self: center;
     justify-self: center;
     text-align: center;
