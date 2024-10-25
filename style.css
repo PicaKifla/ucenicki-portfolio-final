@@ -1312,7 +1312,10 @@ line-height: normal;
 }
 
 main.text p{
-    max-width:1220px;
+        max-width: 1220px;
+    align-self: center;
+    justify-self: center;
+    text-align: center;
     margin: 50px 40px;
 }
 img.slika{
